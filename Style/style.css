@@ -217,7 +217,7 @@ header .container .toggle-menu {
 /*end header*/
 /*start landing*/
 .landing {
-    background-image: url(../images/Landing.jpg);
+    background-image: url(../Images/Landing.jpg);
     position: relative;
     min-height: 100vh;
     background-size: cover;
@@ -383,7 +383,7 @@ header .container .toggle-menu {
 .design {
     display: flex;
     justify-content: space-between;
-    background-image: url(../images/design-background.jpg);
+    background-image: url(../Images/design-background.jpg);
     height: 600px;
     background-size: cover;
     margin-top: 20px;
