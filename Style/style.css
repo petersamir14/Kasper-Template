@@ -690,7 +690,7 @@ header .container .toggle-menu {
 /* end about */
 /* start statistics*/
 .stats {
-    background-image: url(../images/about\ background.jpg);
+    background-image: url(../Images/about\ background.jpg);
     background-size: cover;
     margin-top: -350px;
     position: relative;
@@ -936,7 +936,7 @@ header .container .toggle-menu {
 .quote-section {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
-    background-image: url(../images/Quote.jpg);
+    background-image: url(../Images/Quote.jpg);
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -1148,7 +1148,7 @@ header .container .toggle-menu {
     padding-bottom: var(--main-padding);
     padding-top: var(--main-padding);
     position: relative;
-    background-image: url(../images/subscribe.jpg);
+    background-image: url(../Images/subscribe.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: white;
@@ -1329,7 +1329,7 @@ header .container .toggle-menu {
 
 /* end contact-us */
 footer {
-    background-image: url(../images/subscribe.jpg);
+    background-image: url(../Images/subscribe.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
